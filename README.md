@@ -3,4 +3,4 @@ A [Homebrew](https://brew.sh/) cask for Shopify's [Tophat](https://github.com/sh
 
 ## Install
 
-Run `brew install jaredh/tophat/tophat --no-quarantine`
+Run `brew install jaredh/tophat/tophat`
