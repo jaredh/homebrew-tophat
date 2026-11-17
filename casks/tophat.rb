@@ -1,6 +1,6 @@
 cask "tophat" do
-  version "2.6.0"
-  sha256 "41c6b7cf4e2da98759e91b9a9f82f9fc10aca3699596f0897429535096ea3724"
+  version "2.6.1"
+  sha256 "8302f858b62c6b3ed538114ef80efd23ec09f92eddeca75c742334dae83d4f35"
 
   url "https://github.com/Shopify/tophat/releases/download/v#{version}/Tophat-#{version}.zip"
   name "Tophat"
